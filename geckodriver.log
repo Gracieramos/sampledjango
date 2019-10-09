@@ -1,0 +1,15 @@
+1570611347971	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDgUEp8"
+1570611349146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570611349146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570611349146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570611349147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570611349260	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1570611349260	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1570611349261	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1570611349268	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1570611349268	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1570611349269	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1570611351617	Marionette	INFO	Listening on port 37711
+1570611351701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570611351923	Marionette	INFO	Stopped listening on port 37711
+[Parent 23825, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
